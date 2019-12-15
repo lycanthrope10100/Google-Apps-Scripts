@@ -30,4 +30,4 @@ Gapps scripts that are useful to me, and hopefully others can benefit from them 
   ```
 
 ## Contributions:
-Contributions are welcome — send a pull request! This repo is a work in progress.
+Contributions are welcome - send a pull request! This repo is a work in progress.
